@@ -5,9 +5,9 @@
 This project simulates the operation of an industrial pastry shop, specifically focusing on order management, inventory handling, and logistics in a discrete-time simulation environment. The simulation is entirely command-driven and processes events such as recipe management, ingredient restocking, order processing, and courier pickups.
 
 <p align="center">
-  <img src="final_grade.png" alt="Final Grade Screenshot: 30/30" width="400"/>
+  <img src="final_grade.png" alt="Final Grade Screenshot" width="400"/>
   <br>
-  <em>Final grade for the project</em>
+  <em>Final grade for the project: 30/30</em>
 </p>
 
 ## Features
