@@ -1,8 +1,6 @@
-# Pastry Shop Order Management Simulator
+# Final project for Algorithms and Data Structures 2023-2024
 
-**Final project for Algorithms and Data Structures 2023-2024**
-
-This project simulates the operation of an industrial pastry shop, specifically focusing on order management, inventory handling, and logistics in a discrete-time simulation environment. The simulation is entirely command-driven and processes events such as recipe management, ingredient restocking, order processing, and courier pickups.
+This project simulates the operation of an industrial pastry shop, specifically focusing on order management, inventory handling and logistics in a discrete-time simulation environment. The simulation is entirely command-driven and processes events such as recipe management, ingredient restocking, order processing, and courier pickups.
 
 <p align="center">
   <img src="final_grade.png" alt="Final Grade Screenshot" width="400"/>
